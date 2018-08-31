@@ -1,0 +1,11 @@
+C:\Users\smith\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.deps.json
+C:\Users\smith\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.runtimeconfig.json
+C:\Users\smith\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.runtimeconfig.dev.json
+C:\Users\smith\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.dll
+C:\Users\smith\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.pdb
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.csprojAssemblyReference.cache
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.csproj.CoreCompileInputs.cache
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.AssemblyInfoInputs.cache
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.AssemblyInfo.cs
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.dll
+C:\Users\smith\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.pdb
